@@ -1,0 +1,135 @@
+PROFILE SUMMARY
+Tanishq is a tech-driven problem solver, coding enthusiast, and innovative thinker currently pursuing a degree in computer science at McMaster. Throughout Tanishq's tech journey, a deep curiosity for understanding how things work has been cultivated. With exposure to programming, web design, and data analytics, Tanishq has honed strong analytical skills while balancing studies with various activities, emphasizing both physical and mental well-being. With experience at McMaster's technology frontier, Tanishq brings a unique blend of analytical abilities, a passion for innovation, creative problem-solving, and a commitment to making a positive impact. Looking ahead, Tanishq's ambitions focus on creating a positive influence through continuous learning and innovative endeavors. Eager to collaborate, Tanishq is ready to connect on exciting projects!
+ACHIEVEMENTS
+- Exceptional Academic Performance: Maintaining a stellar GPA of 3.9 out of 4.0 in a rigorous Computer Science program, demonstrating strong technical understanding and work ethic. Awarded the McMaster entrance scholarship for academic excellence.
+- Real-World Problem Solving: Successfully implemented data analysis projects such as the Sea Level Predictor and Probability Calculator, combining machine learning and statistical analysis to provide real-world solutions. This reflects a hands-on approach to solving complex problems.
+- Leadership and Collaboration: As a Project Lead at McMaster Mathstronauts, orchestrated workshops and led projects that foster innovation, showcasing leadership and the ability to collaborate within tech-focused environments. Additionally, active participation in hackathons, including the GDSC Hackathon, highlights adaptability and team collaboration.
+
+STRENGTHS AND ADVANTAGES
+- Proficient in data analysis, AI, and machine learning.
+- Creative and agile problem solver.
+
+WEAKNESSES AND DISADVANTAGES
+Vicky's strong drive for achieving results occasionally led her to prioritize outcomes over nurturing a growth mindset. However, she recognized the importance of learning from each experience and preventing the same failures in the future. She also believes that fostering a growth mindset can contribute to a more open-minded and collaborative teamwork environment.
+
+PROJECTS
+- Arithmetic-formatter
+- AutoEncoder
+- Boltzmann_Machine
+- Breast_Cancer_Classification
+- Credit-card_checker
+- Data007_data-visualiser
+- EV_market-size_analysis
+- Expense_tracker
+- Exploring_Bitcoin_Cryptocurrency_Market
+- fifa21-data_cleaning
+- Food-delivery-time-prediction
+- GenAIwithAWS-Project
+- hypothesis-testing
+- Image_convertor
+- Matrix_operations
+- morsecode_convertor
+- NYC_Airbnb_Market
+- Object_detection_Faster_R-CNN
+- Password_generator
+- Powerplant-ouput-predictor
+- probabilty-calculator
+- Rotten_fruit_classification
+- sea-level-predictor
+- Self_Organising_Map
+- Sentiment-Analysis-with-C
+- Shortest_distance_algo
+- Simple-budget-app-with-python
+- Snake_case_convertor
+- Space_invader_with_pygame
+- Sudoku_solver
+
+
+SALARY EXPECTATION OR EXPECTED SALARY: Tanishq is looking for a competitive salary that is evaluated based on her experience and education.
+
+AVAILABILITY TO WORK
+Tanishq will be available to work immediately.
+
+CONTACT
+- Address: Hamilton, Ontario
+- Phone number: 437-733-2321
+- Email: tanishqchahalapp@gmail.com
+
+SKILLS
+- Programming Languages: Python, C, C++, SQL, HTML, CSS, JavaScript, Elm, MATLAB, Latex
+- Data Science & Machine Learning: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+- Data Analysis & Visualization: Tableau, Matplotlib, Seaborn
+- Software Development: Git, GitHub, Visual Studio, MySQL, Linux
+- Tools & Platforms: Excel, Figma, AWS, GitHub
+- Computer Skills: MS Office
+
+EDUCATION BACKGROUND
+Bachelor of Applied Science, Honors Computer Science
+
+McMaster University, Hamilton, ON
+Sep 2021 - Expected Spring 2025
+Cumulative GPA: 3.9 / 4.0
+Award: McMaster Entrance Scholarship (2021)
+Relevant Coursework: Linear Algebra, Calculus, Discrete Mathematics, Software Design, Computational Thinking, Business Data Analytics
+
+WORK EXPERIENCE
+Data Analyst Intern
+
+Carpathy, Gurgaon, Haryana
+June 2022 - October 2022
+Tech Stack: Data Analysis, Statistical Techniques, Data Visualization
+Details and Responsibilities:
+Maintained large databases and used various statistical techniques to collect, analyze, and interpret data from customers and partners.
+Identified and cleaned data issues from large datasets, improving data accuracy and reducing analysis time by 30%.
+Conducted data analysis and identified key insights that led to a 10% increase in sales.
+Assisted in the creation of reports and dashboards to communicate data insights.
+
+CERTIFICATES
+Quantium - Data Analytics Job Simulation
+Issued Sep 2024
+Skills: Data Analysis · Data Visualization · Exploratory Data Analysis · Statistical Data Analysis
+
+Object detection with Faster R-CNN and PyTorch 
+Issued Aug 2024
+Skills: Artificial Intelligence (AI) · Machine LearningSkills: Artificial Intelligence (AI) · Machine Learning
+
+Tata Group - Data Visualisation: Empowering Business with Effective Insights Job Simulation
+Issued Aug 2024
+Skills: Data Analysis · Analytical Techniques · Exploratory Data Analysis · Data Visualization
+
+Deep Learning A-Z 2024: Neural Networks, AI & ChatGPT Prize
+Issued Jul 2024
+Skills: Deep Learning · Artificial Intelligence (AI) · Machine Learning · Recurrent Neural Networks (RNN) · Autoencoders · Recommender Systems
+
+Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]
+Issued Jul 2024
+Skills: Machine Learning · Artificial Intelligence (AI) · Deep Learning · Statistical Data Analysis · Data Visualization · Natural Language Processing (NLP) · Reinforcement Learning
+
+Introducing Generative AI with AWS
+Issued Jun 2024
+Skills: Artificial Intelligence (AI) · Machine learning
+
+Data Analysis with Python
+Issued Apr 2024
+Skills: Data Analysis · Data Visualization · Exploratory Data Analysis · Statistical Data Analysis · Pandas (Software) · NumPy
+
+Scientific Computing with Python
+Issued Mar 2024
+Skills: Python (Programming Language)
+
+Responsive Web Design
+Issued Jan 2024
+Skills: Responsive Web Design · HTML5 · Cascading Style Sheets (CSS)
+
+Excel: Introduction to Formulas and Functions
+Issued Dec 2023
+Skills: Excel Formulas · Microsoft Excel
+
+Learning Git and GitHub (2021)
+Issued Dec 2023
+Skills: Git · GitHub
+
+Introduction to Data Science Issued by Cisco
+Issued Nov 2023
+Skills: Data Visualization · Machine Learning · Data Analysis · Artificial Intelligence (AI)
+
