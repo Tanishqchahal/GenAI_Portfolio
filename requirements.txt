@@ -4,3 +4,4 @@ python-dotenv
 streamlit
 langchain-chroma
 langchain-community
+protobuf==3.20.1
