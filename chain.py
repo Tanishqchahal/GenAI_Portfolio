@@ -3,7 +3,7 @@ import dotenv
 from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings
-from langchain_chroma import Chroma
+from langchain_community.vectorstores import FAISS
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.prompts import MessagesPlaceholder
@@ -41,7 +41,9 @@ splits = text_splitter.split_documents(docs)
 
 #Store the splits in a vector database
 
-vector_db = Chroma.from_documents(documents=splits, embedding=OpenAIEmbeddings(api_key=api_key))
+vector_db = FAISS.from_documents(documents=splits, embedding=OpenAIEmbeddings(api_key=api_key))
+
+
 
 
 #Create a retriever
