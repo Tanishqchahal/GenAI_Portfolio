@@ -1,8 +1,5 @@
 import streamlit as st
-from resume import resume_page
-from projects import projects_page
-from contact import contact_page
-from chat import chat_page
+
 
 def home_page():
     img, desc = st.columns([1, 3])
