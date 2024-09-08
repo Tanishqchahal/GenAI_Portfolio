@@ -8,7 +8,7 @@ def projects(name, image, repo_link):
 
 def projects_page():
     st.title("Projects")
-    st.subheader("Here are some of the projects I have worked on:", divider="orange")
+    st.subheader("Here are some of the projects I have worked on:", divider="red")
     proj1, proj2, proj3 = st.columns(3)
     with proj1:
         projects(

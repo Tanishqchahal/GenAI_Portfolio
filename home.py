@@ -10,29 +10,29 @@ def home_page():
     with desc:
         st.title("Tanishq Chahal")
         st.subheader(
-            "Software Developer | Machine Learning Engineer", divider="rainbow"
+            "Software Developer | Machine Learning Enthusiast", divider="red"
         )
         st.header("About Me")
         st.markdown(
             """
         <p style='font-size:20px;'>
-            👋🏼 Hello, I'm Tanishq - a tech-driven problem solver, coding enthusiast, and innovative thinker.
+            👋🏼 Hi, I'm Tanishq - a passionate <span style="color: #ff4b4b;">Data, AI, and Machine Learning</span> enthusiast, and problem-solving coder.
         </p>
 
         <p style='font-size:20px;'>
-            Currently pursuing a Bachelor's in Computer Science at McMaster University.
+            I'm currently pursuing a Bachelor's in <span style="color: #ff4b4b;">Computer Science at McMaster University</span>, where my journey in tech has fueled my passion for understanding and innovating with cutting-edge technology.        
         </p>
 
         <p style='font-size:20px;'>
-            In my tech journey, I've cultivated a deep curiosity for understanding how things work. With exposure to programming, web design, and data analytics, I've honed my analytical skills. I balance studies with diverse activities, emphasizing physical and mental well-being.
+            With a strong focus on Data Science, Artificial Intelligence, and Machine Learning, I thrive on leveraging my coding and analytical skills to build intelligent systems that <span style="color: #ff4b4b;">solve real-world challenges</span>.        
         </p>
 
         <p style='font-size:20px;'>
-            With experience at McMaster's technology frontier, I bring analytical skills, a passion for innovation, innovative problem-solving, and a commitment to positive impact.
+            As I explore the frontiers of AI and Machine Learning, I'm driven to create <span style="color: #ff4b4b;">impactful solutions</span> and continuously push the boundaries of innovation.        
         </p>
 
         <p style='font-size:20px;'>
-            Looking ahead, my ambitions lie in creating a positive impact through continuous learning and innovative endeavors. Let's connect and collaborate on exciting projects!
+            <span style="color: #ff4b4b;">Let's connect</span> and collaborate on transformative projects that shape the future!        
         </p>
 
         """, unsafe_allow_html=True)

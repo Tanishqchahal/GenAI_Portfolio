@@ -12,8 +12,8 @@ def chat_page():
     initialize_session_state()
 
     st.title("AI Assistant")
-    st.subheader("Chat with Buddy to know more about Me")
-
+    st.subheader("Chat with Buddy to know more about Me", divider="red")
+    
     prompt = st.chat_input("Enter your prompt")
     
     for message in st.session_state.messages:
