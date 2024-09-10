@@ -5,7 +5,7 @@ def home_page():
     img, desc = st.columns([1, 3])
 
     with img:
-        st.image("static/profile-pic.png", width=230)
+        st.image("static/profile.png", width=250)
 
     with desc:
         st.title("Tanishq Chahal")
